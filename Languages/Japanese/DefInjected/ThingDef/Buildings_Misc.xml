@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BunkerSpot.label>避難場所</BunkerSpot.label>
+  <BunkerSpot.description>入植者が脅威に遭遇した場合に、避難するための安全な場所を指定します。入植者は、危険から逃げるように設定されている場合、最も近い避難場所(bunker spot)へ避難します。</BunkerSpot.description>
+  <BunkerSpot_Blueprint.label>避難場所(設計)</BunkerSpot_Blueprint.label>
+  <BunkerSpot_Frame.label>避難場所(施工)</BunkerSpot_Frame.label>
+  <BunkerSpot_Frame.description>入植者が脅威に遭遇した場合に、避難するための安全な場所を指定します。入植者は、危険から逃げるように設定されている場合、最も近い避難場所(bunker spot)へ避難します。</BunkerSpot_Frame.description>
+
+
+</LanguageData>

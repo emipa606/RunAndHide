@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BunkerSpot.label>Безопасное место</BunkerSpot.label>
+  <BunkerSpot.description>Обозначает безопасное место для бегства колонистов, если они сталкиваются с угрозой. Колонисты бегут к ближайшему безопасному месту, если они собираются бежать от опасности.</BunkerSpot.description>
+</LanguageData>

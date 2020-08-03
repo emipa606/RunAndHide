@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BunkerSpot.label>bunker spot</BunkerSpot.label>
+  <BunkerSpot.description>Designates a safe place for colonists to flee to if they encounter a threat. Colonists will run to the nearest bunker spot if they are set to flee from danger.</BunkerSpot.description>
+
+
+</LanguageData>

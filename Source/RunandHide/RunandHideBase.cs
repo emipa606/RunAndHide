@@ -1,9 +1,8 @@
 ﻿using HugsLib;
 
-namespace RunandHide
+namespace RunandHide;
+
+public class RunandHideBase : ModBase
 {
-    public class RunandHideBase : ModBase
-    {
-        public override string ModIdentifier => "RunandHide";
-    }
+    public override string ModIdentifier => "RunandHide";
 }

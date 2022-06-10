@@ -7,6 +7,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1552457762
 
 - Added Russian translation, made by user: I'm sorry
 - Added French translation, thanks qux!
+- German translation added, thanks Dimos!
 
 ![Image](https://i.imgur.com/pufA0kM.png)
 
@@ -29,6 +30,7 @@ Compatible with every mod and can be installed on existing saves.
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+
 
 
 

@@ -8,6 +8,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1552457762
 - Added Russian translation, made by user: I'm sorry
 - Added French translation, thanks qux!
 - German translation added, thanks Dimos!
+- Added animal bunker-spot
 
 ![Image](https://i.imgur.com/pufA0kM.png)
 

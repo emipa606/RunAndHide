@@ -1,8 +1,13 @@
-﻿using HugsLib;
+﻿using System.Reflection;
+using Verse;
 
 namespace RunandHide;
 
-public class RunandHideBase : ModBase
+[StaticConstructorOnStartup]
+public static class RunandHideBase
 {
-    public override string ModIdentifier => "RunandHide";
+    static RunandHideBase()
+    {
+        new HarmonyLib.Harmony("Mlie.RunandHide").PatchAll(Assembly.GetExecutingAssembly());
+    }
 }

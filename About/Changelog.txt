@@ -1,5 +1,8 @@
 # Changelog for RunAndHide
 
+1.3.4 - Removed legacy HugsLib requirement
+
+
 1.3.3 - Should no longer affect the Anima-tree
 
 

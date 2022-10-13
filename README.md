@@ -9,6 +9,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1552457762
 - Added French translation, thanks qux!
 - German translation added, thanks Dimos!
 - Added animal bunker-spot
+- Removed legacy HugsLib requirement
 
 ![Image](https://i.imgur.com/pufA0kM.png)
 

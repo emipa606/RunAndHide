@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: animal bunker spot -->
+  <AnimalBunkerSpot.label>动物掩体点</AnimalBunkerSpot.label>
+  <!-- EN: Designates a safe place for animals to flee to if they encounter a threat. Animals will run to the nearest bunker spot if they are set to flee from danger. -->
+  <AnimalBunkerSpot.description>指定动物在遇到威胁时可以逃往的安全地点。如果动物被设为逃离危险，它们会跑到最近的掩体点。</AnimalBunkerSpot.description>
+  
+  <!-- EN: bunker spot -->
+  <BunkerSpot.label>掩体点</BunkerSpot.label>
+  <!-- EN: Designates a safe place for colonists to flee to if they encounter a threat. Colonists will run to the nearest bunker spot if they are set to flee from danger. -->
+  <BunkerSpot.description>指定殖民者在遇到威胁时可以逃往的安全地点。如果殖民者被设为逃离危险，他们会跑到最近的掩体点。</BunkerSpot.description>
+  
+</LanguageData>

@@ -1,17 +1,14 @@
-﻿using System.Collections.Generic;
-using HarmonyLib;
+﻿using HarmonyLib;
 using RimWorld;
 using Verse;
 using Verse.AI;
 
 namespace RunandHide.Harmony;
 
-[HarmonyPatch(typeof(CellFinderLoose), "GetFleeDest")]
-public static class CellFinderLoosePatch
+[HarmonyPatch(typeof(CellFinderLoose), nameof(CellFinderLoose.GetFleeDest))]
+public static class CellFinderLoose_GetFleeDest
 {
-    [HarmonyPrefix]
-    public static bool GetFleeDestToolUserPatch(ref IntVec3 __result, Pawn pawn, List<Thing> threats,
-        float distance)
+    public static bool Prefix(ref IntVec3 __result, Pawn pawn)
     {
         if (pawn.Faction != Faction.OfPlayer)
         {

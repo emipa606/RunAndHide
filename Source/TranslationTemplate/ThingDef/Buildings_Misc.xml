@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: animal bunker spot -->
+  <AnimalBunkerSpot.label>animal bunker spot</AnimalBunkerSpot.label>
+  <!-- EN: Designates a safe place for animals to flee to if they encounter a threat. Animals will run to the nearest bunker spot if they are set to flee from danger. -->
+  <AnimalBunkerSpot.description>Designates a safe place for animals to flee to if they encounter a threat. Animals will run to the nearest bunker spot if they are set to flee from danger.</AnimalBunkerSpot.description>
+  <!-- EN: bunker spot -->
+  <BunkerSpot.label>bunker spot</BunkerSpot.label>
+  <!-- EN: Designates a safe place for colonists to flee to if they encounter a threat. Colonists will run to the nearest bunker spot if they are set to flee from danger. -->
+  <BunkerSpot.description>Designates a safe place for colonists to flee to if they encounter a threat. Colonists will run to the nearest bunker spot if they are set to flee from danger.</BunkerSpot.description>
+</LanguageData>

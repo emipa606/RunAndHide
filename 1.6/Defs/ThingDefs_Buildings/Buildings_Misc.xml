@@ -8,20 +8,22 @@
       <texPath>Things/Building/Misc/RunMarker</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
-    <altitudeLayer>FloorEmplacement</altitudeLayer>
+    <altitudeLayer>MoteOverhead</altitudeLayer>
     <statBases>
       <WorkToBuild>0</WorkToBuild>
     </statBases>
     <scatterableOnMapGen>false</scatterableOnMapGen>
     <useHitPoints>False</useHitPoints>
     <designationCategory>Misc</designationCategory>
-    <passability>Standable</passability>
+    <terrainAffordanceNeeded IsNull="True" />
     <building>
+      <isEdifice>false</isEdifice>
       <sowTag>SupportPlantsOnly</sowTag>
       <canPlaceOverImpassablePlant>false</canPlaceOverImpassablePlant>
       <ai_chillDestination>false</ai_chillDestination>
       <artificialForMeditationPurposes>false</artificialForMeditationPurposes>
       <ai_neverTrashThis>true</ai_neverTrashThis>
+      <expandHomeArea>false</expandHomeArea>
     </building>
   </ThingDef>
   <ThingDef ParentName="BuildingBase">
@@ -32,20 +34,22 @@
       <texPath>Things/Building/Misc/AnimalRunMarker</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
-    <altitudeLayer>FloorEmplacement</altitudeLayer>
+    <altitudeLayer>MoteOverhead</altitudeLayer>
     <statBases>
       <WorkToBuild>0</WorkToBuild>
     </statBases>
     <scatterableOnMapGen>false</scatterableOnMapGen>
     <useHitPoints>False</useHitPoints>
     <designationCategory>Misc</designationCategory>
-    <passability>Standable</passability>
+    <terrainAffordanceNeeded IsNull="True" />
     <building>
+      <isEdifice>false</isEdifice>
       <sowTag>SupportPlantsOnly</sowTag>
       <canPlaceOverImpassablePlant>false</canPlaceOverImpassablePlant>
       <ai_chillDestination>false</ai_chillDestination>
       <artificialForMeditationPurposes>false</artificialForMeditationPurposes>
       <ai_neverTrashThis>true</ai_neverTrashThis>
+      <expandHomeArea>false</expandHomeArea>
     </building>
   </ThingDef>
 </Defs>

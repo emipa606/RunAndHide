@@ -1,5 +1,8 @@
 # Changelog for RunAndHide
 
+1.6.1 - Spots should now be placeable on anything
+
+
 1.6.0 - Mod updated for 1.6 and passed autotests
 
 
